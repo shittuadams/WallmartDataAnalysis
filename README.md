@@ -29,23 +29,17 @@
 </ol>
 <h3>Dashboard</h3>
 <p align="center">
-   <img src="images/pivottable-image.png"> 
+   <img src="images/Walmart-Image.png"> 
 </p>
-<h3>Visualizations and Key Findings</h3> 
-<p>Three pivot tables were created and three charts were derived from each of these tables. The charts are as follows: </p>
-<p align="center">
-   <img src="images/bike-buyers-dashboard-image.png"> 
-</p>
+<h3>Key Findings</h3> 
 <p>The following insights were discovered: </p>
 <ol>
-<li>Customers of middle ages bought more bikes than other age brackets.</li>  
-<li>The average income of the male customers is higher than that of the female customers. </li> 
-<li>The closer the customer commute, the higher the tendency to buy a bike.</li> 
+<li>Customers who are above are loss making for the business.</li>  
+<li>Profit is beginning to take an upward direction.</li> 
 </ol>
 <h3>Recommendations </h3>
 <ol>
-<li>Customers of middle ages should be the focus of marketing campaigns.</li>  
-<li>More outlets should be opened in the future in other to reduce the customer commute distance.</li>  
+<li>Customers of ages less than 90 years old should be the focus of marketing campaigns.</li>  
 </ol>
 <br>
-<h4 align="center">Download workbook of the entire analysis <a href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset/blob/main/Bike%20Buyers%20Dataset%20Analysis.xlsx" target="_blank">here</a>.</h4>
+<h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset/blob/main/Bike%20Buyers%20Dataset%20Analysis.xlsx" target="_blank">here</a>.</h4>
