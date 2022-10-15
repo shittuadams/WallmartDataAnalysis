@@ -42,4 +42,4 @@
 <li>Customers of ages less than 90 years old should be the focus of marketing campaigns.</li>  
 </ol>
 <br>
-<h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset/blob/main/Bike%20Buyers%20Dataset%20Analysis.xlsx" target="_blank">here</a>.</h4>
+<h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank">here</a>.</h4>
