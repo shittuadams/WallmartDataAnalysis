@@ -1,4 +1,4 @@
-<h1 align="center">Data Analysis on Wallmart's Retail Dataset</h1>
+<h1 align="center">Data Visualization on Wallmart's Retail Dataset</h1>
 <h4 align="center">15-10-2022</h4> 
 
 <h3>Business Task</h3> 
@@ -12,7 +12,7 @@
 <p>A summary of the dataset is as follows:<p>
 <div>
    The fields of the dataset are as follows: 
-   <p align="center">City, Customer Name, Customer Segment, Order Data, Order Priority, Product Category, Product Container, Product Name, Product-Sub-Category, Region, Ship Date</p>
+   <p align="center">City, Customer Name, Customer Segment, Order Data, Order Priority, Product Category, Product Container, Product Name, Product-Sub-Category, Region, Ship Date, Ship Mode, State, Customer Age, Discount, Number of Records, Order ID, Order Quantity, Purchase Base Margin, Profit, Row ID, Sales, Shipping Cost, Unit Price, Zip Code</p>
 </div>
 
 <h3>Data Visualization Tool</h3>
