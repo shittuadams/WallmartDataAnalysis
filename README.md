@@ -1,4 +1,4 @@
-<h1 align="center">Data Visualization with Wallmart's Retail Dataset</h1>
+<h1 align="center">Data Visualization with Wallmart's Retail Dataset Using Tableau</h1>
 <h4 align="center">15-10-2022</h4> 
 
 <h3>Business Task</h3> 
