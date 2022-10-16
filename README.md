@@ -30,7 +30,9 @@
 <h3>Dashboard</h3>
 <p align="center">
    <img src="images/Walmart-Image.png"> 
+   <span>Click <a href="https://public.tableau.com/views/WallmartRetailDataVisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> to view on Tableau Public.</span>
 </p>
+
 <h3>Key Findings</h3> 
 <p>The following insights were discovered: </p>
 <ol>
@@ -41,5 +43,6 @@
 <ol>
 <li>Customers of ages less than 90 years old should be the focus of marketing campaigns.</li>  
 </ol>
+
 <br>
 <h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank">here</a>.</h4>
