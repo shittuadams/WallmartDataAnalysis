@@ -16,7 +16,7 @@
 </div>
 
 <h3>Data Visualization Tool</h3>
-<p>Tableau was visualization software used.</p> 
+<p>Tableau was the visualization software used.</p> 
 
 <h3>Data Visualization Process</h3>
 <p>The following steps were taken in Tableau:</p> 
